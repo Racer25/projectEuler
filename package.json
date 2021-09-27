@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prob65": "node -r esm prob65.js",
+    "prob13": "node -r esm prob13.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
