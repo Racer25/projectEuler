@@ -6,6 +6,8 @@
   "scripts": {
     "prob65": "node -r esm prob65.js",
     "prob13": "node -r esm prob13.js",
+    "prob20": "node -r esm prob20.js",
+    "prob22": "node -r esm prob22.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
