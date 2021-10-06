@@ -6,6 +6,8 @@
   "scripts": {
     "prob65": "node -r esm prob65.js",
     "prob13": "node -r esm prob13.js",
+    "prob16": "node -r esm prob16.js",
+    "prob17": "node -r esm prob17.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25",
-    "mathjs": "^9.5.0"
+    "mathjs": "^9.5.0",
+    "num-words": "^1.2.2"
   }
 }
