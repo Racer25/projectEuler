@@ -12,6 +12,8 @@
     "prob22": "node -r esm prob22.js",
     "prob25": "node -r esm prob25.js",
     "prob26": "node -r esm prob26.js",
+    "prob33": "node -r esm prob33.js",
+    "prob34": "node -r esm prob34.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
